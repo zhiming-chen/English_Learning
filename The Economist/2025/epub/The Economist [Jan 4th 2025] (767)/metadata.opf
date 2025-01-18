@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67eeb1f9-284b-4682-9ca1-1760f7b8cf08</dc:identifier>
+        <dc:title>The Economist [Jan 4th 2025]</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-04T00:00:00+00:00</dc:date>
+        <dc:description>刊物中的文章: 
+
+The world this week
+
+The weekly cartoon
+
+This week’s cover
+
+Tech is coming to Washington. Prepare for a clash of cultures
+
+Finland’s seizure of a tanker shows how to fight Russian sabotage
+
+To see what European business could become, look to the Nordics
+
+Smarter incentives would help India adapt to climate change
+
+The Starmer government looks a poor guardian of England’s improving schools
+
+Letters to the editor
+
+Young customers in developing countries propel a boom in plastic surgery
+
+How 1.4bn Indians are adapting to climate change
+
+Economic bright spots are getting harder to find in Thailand
+
+Why you’re not on holiday in India right now
+
+Another accidental aircraft shootdown is a matter of when, not if
+
+Xi Jinping has much to worry about in 2025
+
+China approves the world’s most expensive infrastructure project
+
+How China turns members of its diaspora into spies
+
+The Bourbon Street attack was part of a new pattern
+
+Homelessness rises to a record level in America
+
+Duelling arguments take shape in the TikTok-ban case
+
+Overall, American states are becoming more democratic
+
+RFK junior is half right about American health care
+
+Jimmy Carter reshaped his home town
+
+Venezuela’s Nicolás Maduro looks set to take the throne
+
+Why Spanish firms have cooled towards Latin America
+
+Failure to prepare for climate change is costing Honduras dear
+
+The era of multilateral peacekeeping draws to an unhappy close
+
+Eastern Congo is as wretched as ever
+
+Syria’s new rulers have inherited an economic disaster
+
+The fate of minorities in post-Assad Syria
+
+Finland seizes a tanker, getting tough on hybrid warfare
+
+A Prague-Berlin train loses its old-world dining cars
+
+Elon Musk’s praise for the far right infuriates most of Germany
+
+Serbia and its neighbours are still far from joining the EU
+
+Why Canada should join the EU
+
+Labour lacks good ideas for improving Britain’s schools
+
+Inflation in Britain looks irritatingly persistent
+
+Britons brace themselves for more floods
+
+The four worst words in British politics
+
+Why people over the age of 55 are the new problem generation
+
+Young people are having less fun
+
+Why are Nordic companies so successful?
+
+Netflix has big ambitions for live sport
+
+Meet Silicon Valley’s shrewdest talent spotters
+
+America’s marijuana industry is wilting
+
+China is catching up with America in quantum technology
+
+Beware the dangers of data
+
+MAGA’s war on talent frightens CEOs—and angers Elon Musk
+
+Will Elon Musk dominate President Trump’s economic policy?
+
+What investors expect from President Trump
+
+China’s firms are taking flight, worrying its rulers
+
+Manmohan Singh was India’s economic freedom fighter
+
+Would an artificial-intelligence bubble be so bad?
+
+Can Jeff Bezos match Elon Musk in space?
+
+New firefighting tech is being trialled in Sardinia’s ancient forests
+
+Cancer vaccines are showing promise at last
+
+The Colombian powerhouse behind some of streaming’s biggest hits
+
+Why do rebels and revolutionaries love “Paradise Lost”?
+
+What Haruki Murakami’s fans get wrong about him
+
+Economic data, commodities and markets
+
+Jimmy Carter was perhaps the most virtuous of all America’s presidents
+
+The fight over America’s economy</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新聞</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:timestamp" content="2025-01-04T04:28:40+00:00"/>
+        <meta name="calibre:title_sort" content="Economist [Jan 4th 2025], The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ddfe654-67a8-47e2-a233-09a7b8131cb8</dc:identifier>
+        <dc:title>The Economist [Jan 18th 2025]</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-01-18T00:00:00+00:00</dc:date>
+        <dc:description>刊物中的文章: 
+
+Politics
+
+Business
+
+The weekly cartoon
+
+This week’s cover
+
+Donald Trump will upend 80 years of American foreign policy
+
+Rising bond yields should spur governments to go for growth
+
+Houthi Inc: the pirates who weaponised globalisation
+
+How to improve clinical trials
+
+Letters to the editor
+
+Trumpism is becoming more pragmatic, argues Reihan Salam
+
+The right in Congress and the courts will reshape Donald Trump’s agenda
+
+India’s Faustian pact with Russia is strengthening
+
+What North Korea gains by sending troops to fight for Russia
+
+Is Arkadag the world’s greatest football team?
+
+After the president’s arrest, what next for South Korea?
+
+Can Donald Trump maintain Joe Biden’s network of Asian alliances?
+
+An initiative so feared that China has stopped saying its name
+
+Why foreign law firms are leaving China
+
+An outrage that even China’s supine media has called out
+
+How will calamity change Los Angeles?
+
+How bad will the smoke be for Angelenos’ health?
+
+How hard is it to run the Pentagon?
+
+Tulsi Gabbard, Sean Penn and the hunt for an American hostage
+
+How flush Americans feel depends on their views of Donald Trump
+
+How Joe Biden wound up serving Donald Trump
+
+From Greenland to Panama and Mexico, leaders are in shock
+
+Tether’s move to El Salvador is a win for President Nayib Bukele
+
+Canada has adopted assisted dying faster than anywhere on Earth
+
+After 15 months of hell, Israel and Hamas sign a ceasefire deal
+
+First, the ceasefire. Next the Trump effect could upend the Middle East
+
+Violent jihadists are getting frustrated by the new Syria
+
+West African booze is becoming a luxury product
+
+A hidden refuge in Sudan that the internet, banks—and war—can’t reach
+
+How the AfD got its swagger back
+
+France’s new prime minister is trying to court the left
+
+A TV dramatisation of Mussolini’s life inflames Italy
+
+A French-sponsored Ukrainian army brigade has been badly botched
+
+Spain’s proposed house tax on foreigners will not fix its shortage
+
+Can the good ship Europe weather the Trumpnado?
+
+Britain’s government has spooked markets and riled businesses
+
+David Lammy’s plan to shake up Britain’s Foreign Office
+
+Britain is becoming a well-mannered but deceitful society
+
+Homelessness in England has risen by 26% in the past five years
+
+A plan to reorganise local government in England runs into opposition
+
+Has the Royal Navy become too timid?
+
+Labour’s credibility trap
+
+Marco Rubio will find China is hard to beat in Latin America
+
+Why elite MBA graduates are struggling to find jobs
+
+Can the Gulf states become tech superpowers?
+
+One of the biggest energy IPOs in a decade could be around the corner
+
+Will Elon Musk scrap his plan to invest in a gigafactory in Mexico?
+
+Germany is going nuts for Dubai chocolate
+
+The year ahead: a message from the CEO
+
+The UFC, Dana White and the rise of bloodsport entertainment
+
+Why global bond markets are convulsing
+
+Will Donald Trump unleash Wall Street?
+
+Iran is vulnerable to a Trumpian all-out economic assault
+
+Ethiopia gets a stockmarket. Now it just needs some firms to list
+
+Are big cities overrated?
+
+Why catastrophe bonds are failing to cover disaster damage
+
+“The Traitors”, a reality TV show, offers a useful economics lesson
+
+Volunteers with Down’s syndrome could help find Alzheimer’s drugs
+
+A better understanding of Huntington’s disease brings hope
+
+Is obesity a disease?
+
+Should you start lifting weights?
+
+Greg Gutfeld, America’s most popular late-night host, rules the airwaves
+
+Want to spend time with a different American president?
+
+Los Angeles has lost some of its trailblazing architecture
+
+What firms are for
+
+Astrology is booming, thanks to technology and younger enthusiasts
+
+Why matcha, made from green tea, is the drink of the moment
+
+Economic data, commodities and markets
+
+Peter Fenwick became the world expert on near-death experiences
+
+The Trump doctrine: America’s new foreign policy</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>新聞</dc:subject>
+        <dc:subject>The Economist</dc:subject>
+        <meta name="calibre:timestamp" content="2025-01-18T01:47:33+00:00"/>
+        <meta name="calibre:title_sort" content="Economist [Jan 18th 2025], The"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;end_cfi&quot;: &quot;/2/4/4/14/2:25&quot;, &quot;highlighted_text&quot;: &quot; belated&quot;, &quot;spine_index&quot;: 68, &quot;spine_name&quot;: &quot;feed_13/article_5/index_u54.html&quot;, &quot;start_cfi&quot;: &quot;/2/4/4/14/2:17&quot;, &quot;style&quot;: {&quot;kind&quot;: &quot;color&quot;, &quot;type&quot;: &quot;builtin&quot;, &quot;which&quot;: &quot;green&quot;}, &quot;timestamp&quot;: &quot;2025-01-18T01:51:06.499Z&quot;, &quot;toc_family_titles&quot;: [&quot;Business&quot;, &quot;The year ahead: a message from the CEO&quot;], &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;UPOFtyAicof5cxf7SPDoNg&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
